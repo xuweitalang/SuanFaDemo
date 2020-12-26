@@ -1,4 +1,4 @@
-package com.example.fanxingdemo.generic.wildcard.up;
+package com.example.fanxingdemo.fanxing.generic.wildcard.up;
 
 import java.util.ArrayList;
 import java.util.List;

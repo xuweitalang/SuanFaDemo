@@ -1,4 +1,4 @@
-package com.example.fanxingdemo.generic.bound;
+package com.example.fanxingdemo.fanxing.generic.bound;
 
 /**
  * @Author: xuwei

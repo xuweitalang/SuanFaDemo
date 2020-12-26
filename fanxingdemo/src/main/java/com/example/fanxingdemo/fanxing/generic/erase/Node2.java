@@ -1,4 +1,4 @@
-package com.example.fanxingdemo.generic.erase;
+package com.example.fanxingdemo.fanxing.generic.erase;
 
 /**
  * @Author: xuwei

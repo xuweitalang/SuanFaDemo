@@ -1,6 +1,4 @@
-package com.example.fanxingdemo.generic.wildcard.up;
-
-import com.example.fanxingdemo.generic.method.MethodGeneric2;
+package com.example.fanxingdemo.fanxing.generic.wildcard.up;
 
 import java.util.ArrayList;
 import java.util.List;

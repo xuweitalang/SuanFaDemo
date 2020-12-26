@@ -1,4 +1,4 @@
-package com.example.fanxingdemo.generic.clazz;
+package com.example.fanxingdemo.fanxing.generic.clazz;
 
 /**
  * @Author: xuwei

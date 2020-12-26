@@ -1,4 +1,4 @@
-package com.example.fanxingdemo.generic.method;
+package com.example.fanxingdemo.fanxing.generic.method;
 
 import androidx.annotation.NonNull;
 
