@@ -55,6 +55,7 @@ class ProductC extends Product {
 class Factory {
 
     public Product makeProduct(String name) {
+
         switch (name) {
             case "A":
                 return new ProductA();
