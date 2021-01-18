@@ -5,6 +5,7 @@ package com.example.fanxingdemo.design.abstractfactory;
  * @Author: xuwei
  * @Date: 2020/12/25 14:57
  * @Description: 抽象工厂模式：
+ * 象工厂模式是工厂方法模式的升级版本，工厂方法模式只生产一个等级的产品，而抽象工厂模式可生产多个等级的产品。
  */
 public class AbstractFactoryDemo {
     public static void main(String[] args) {

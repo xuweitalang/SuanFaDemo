@@ -1,3 +1,4 @@
 rootProject.name='SuanFaDemo'
 include ':app'
 include ':fanxingdemo'
+include ':classloaderdemo'
